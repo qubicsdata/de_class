@@ -2,7 +2,7 @@
 
 ## Understanding Computers
 - [Computer Basics - Khan Academy](https://www.khanacademy.org/computing/computer-science/computers-and-internet)
-- [What is a Computer? - BBC Bitesize](https://www.bbc.co.uk/bitesize/topics/zbhgjxs/articles/zdbvscw)
+- [What is a Computer? - BBC Bitesize](https://www.bbc.co.uk/bitesize/articles/z9myvcw)
 
 ## Hardware Components
 - [Computer Hardware Components Explained - Computer Hope](https://www.computerhope.com/jargon/h/hardware.htm)
