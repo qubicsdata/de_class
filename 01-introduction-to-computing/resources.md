@@ -12,9 +12,9 @@
 ## Software and Operating Systems
 - [Operating Systems - CrashCourse Computer Science](https://www.youtube.com/watch?v=26QPDBe-NB8)
 - [Software Basics - Techopedia](https://www.techopedia.com/definition/4356/software)
-- [Windows vs Linux: What's the Difference? - How-To Geek](https://www.howtogeek.com/141073/what%E2%80%99s-the-difference-between-windows-and-linux/)
+- [Windows vs Linux: What's the Difference? - How-To Geek](https://www.howtogeek.com/windows-vs-linux-whats-the-difference-for-everyday-users/)
 
 ## Data Basics
-- [What is Data? - Simplilearn](https://www.simplilearn.com/tutorials/data-science-tutorial/what-is-data)
-- [Binary Numbers Explained - BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zwsbwmn/revision/1)
-- [Structured vs Unstructured Data - IBM Cloud](https://www.ibm.com/cloud/blog/structured-vs-unstructured-data)
+- [What is Data? - Simplilearn](https://www.simplilearn.com/what-is-data-article)
+- [Binary Numbers Explained - BBC Bitesize](https://www.bbc.co.uk/bitesize/articles/z9j2jsg#zhxsn9q)
+- [Structured vs Unstructured Data - IBM Cloud](https://www.ibm.com/think/topics/structured-vs-unstructured-data)
